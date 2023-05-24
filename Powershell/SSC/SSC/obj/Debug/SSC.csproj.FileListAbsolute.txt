@@ -1,0 +1,7 @@
+\\blackarch\commando\PEN-300 Stuff\C#\SSC\SSC\obj\Debug\SSC.csproj.AssemblyReference.cache
+\\blackarch\commando\PEN-300 Stuff\C#\SSC\SSC\obj\Debug\SSC.csproj.CoreCompileInputs.cache
+\\blackarch\commando\PEN-300 Stuff\C#\SSC\SSC\bin\Debug\SSC.dll.config
+\\blackarch\commando\PEN-300 Stuff\C#\SSC\SSC\bin\Debug\SSC.dll
+\\blackarch\commando\PEN-300 Stuff\C#\SSC\SSC\bin\Debug\SSC.pdb
+\\blackarch\commando\PEN-300 Stuff\C#\SSC\SSC\obj\Debug\SSC.dll
+\\blackarch\commando\PEN-300 Stuff\C#\SSC\SSC\obj\Debug\SSC.pdb
